@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CookingMaster">
         <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
             android:name=".RegisterUserActivity"
             android:exported="true" />
         <activity
